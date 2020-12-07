@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "ressources/atlas/boutonInstru.png"
+],
+
+"framerate": 30,
+"frames": [
+    [1, 1, 500, 120, 0, 0, 0],
+    [1, 123, 500, 120, 0, 0, 0]
+],
+
+"animations": {
+    "out": { "frames": [0] },
+    "down": { "frames": [1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:82bd1fbd2d7fb4f9c91408dadd7e3466:74e3737f4400dedaa4e0595ad8adf7c2:7ef65d7c119a2197e35a095bf7b78715$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,37 @@
+{
+
+  "manifest": [
+
+    {"id": "bg1",  "src": "ressources/images/bg_1.png"},
+    {"id": "bg2",  "src": "ressources/images/bg_2.png"},
+    {"id": "bg3",  "src": "ressources/images/bg_3.png"},
+    {"id": "arbre1",  "src": "ressources/images/tree_1.png"},
+    {"id": "arbre2",  "src": "ressources/images/tree_2.png"},
+    {"id": "arbre3",  "src": "ressources/images/tree_3.png"},
+    {"id": "arbre4",  "src": "ressources/images/tree_4.png"},
+    {"id": "sol",  "src": "ressources/images/sol.jpg"},
+    {"id": "logo",  "src": "ressources/images/logo.png"},
+    {"id": "instructions",  "src": "ressources/images/instructions.png"},
+    {"id": "queue",  "src": "ressources/images/queue.png"},
+    {"id": "fondFin",  "src": "ressources/images/fondFin.png"},
+
+    {"id": "heros",  "src": "ressources/atlas/heros.json", "type": "spritesheet"},
+    {"id": "ennemi1",  "src": "ressources/atlas/ennemi1.json", "type": "spritesheet"},
+    {"id": "ennemi2",  "src": "ressources/atlas/ennemi2.json", "type": "spritesheet"},
+    {"id": "ennemi3",  "src": "ressources/atlas/ennemi3.json", "type": "spritesheet"},
+    {"id": "ennemi4",  "src": "ressources/atlas/ennemi4.json", "type": "spritesheet"},
+    {"id": "boutonInstru",  "src": "ressources/atlas/boutonInstru.json", "type": "spritesheet"},
+    {"id": "boutonAttaque",  "src": "ressources/atlas/boutonAttaque.json", "type": "spritesheet"},
+    {"id": "boutonSaut",  "src": "ressources/atlas/boutonSaut.json", "type": "spritesheet"},
+    {"id": "uiHP",  "src": "ressources/atlas/uiHP.json", "type": "spritesheet"},
+
+    {"id": "musique",  "src": "ressources/sons/music.mp3", "type": "sound"},
+    {"id": "musiqueFin",  "src": "ressources/sons/fin.mp3", "type": "sound"},
+    {"id": "sonSaut",  "src": "ressources/sons/saut.wav", "type": "sound"},
+    {"id": "sonAttaque",  "src": "ressources/sons/attaque.wav", "type": "sound"},
+    {"id": "sonDammage",  "src": "ressources/sons/degats.wav", "type": "sound"},
+    {"id": "sonEnnemiMort",  "src": "ressources/sons/ennemiMort.wav", "type": "sound"},
+    {"id": "sonQueue",  "src": "ressources/sons/queue.wav", "type": "sound"}
+  ]
+
+}

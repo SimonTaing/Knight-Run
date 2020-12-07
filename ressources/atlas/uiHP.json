@@ -1,0 +1,31 @@
+{
+
+"images": [
+    "ressources/atlas/uiHP.png"
+],
+
+"framerate": 30,
+"frames": [
+    [1, 1, 656, 75, 0, 0, 0],
+    [659, 1, 321, 75, 0, 0, 0],
+    [1, 78, 545, 75, 0, 0, 0],
+    [548, 78, 433, 75, 0, 0, 0],
+    [1, 155, 209, 75, 0, 0, 0],
+    [212, 155, 97, 75, 0, 0, 0]
+],
+
+"animations": {
+    "hp6": { "frames": [0] },
+    "hp3": { "frames": [1] },
+    "hp5": { "frames": [2] },
+    "hp4": { "frames": [3] },
+    "hp2": { "frames": [4] },
+    "hp1": { "frames": [5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:d916a8d5830342def253f981c7f8f497:56fa012425af7bc9f2b419a68707f901:b76d9f45c35577f32fc1729501413c24$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

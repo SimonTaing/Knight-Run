@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "ressources/atlas/boutonSaut.png"
+],
+
+"framerate": 30,
+"frames": [
+    [1, 1, 498, 498, 0, 249, 249],
+    [1, 501, 498, 498, 0, 249, 249]
+],
+
+"animations": {
+  "out": { "frames": [0] },
+  "down": { "frames": [1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:4900115fb68da349ed3db192708ac65f:ab532c3ef480044734c70b769e3baf58:8a23c41400de186318a430afc601df7c$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,32 @@
+{
+
+"images": [
+    "ressources/atlas/ennemi1.png"
+],
+
+"framerate": 30,
+"frames": [
+    [1, 1, 200, 183, 0, 68, 175],
+    [203, 1, 199, 184, 0, 68, 175],
+    [1, 186, 199, 183, 0, 67, 175],
+    [404, 1, 198, 184, 0, 67, 176],
+    [604, 1, 198, 184, 0, 68, 175],
+    [804, 1, 198, 184, 0, 67, 176],
+    [1, 371, 190, 186, 0, 67, 176],
+    [1, 559, 195, 185, 0, 67, 176],
+    [193, 371, 195, 185, 0, 67, 176],
+    [1, 746, 195, 184, 0, 68, 174],
+    [198, 558, 194, 184, 0, 68, 174],
+    [198, 744, 189, 183, 0, 68, 173]
+],
+
+"animations": {
+    "run": { "frames": [6, 7, 3, 2, 1, 9, 11, 10, 4, 0, 5, 8] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:9e4994c8e1bbb50f54ea3660f3da6a0b:0154b280dc10bb4be5545520094c225b:fe5991187cbce831c1f4624124df591b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
